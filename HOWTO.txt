@@ -1,0 +1,13 @@
+THEME:
+1. Download the theme form the repository
+2. Extract it to C:\Windows\Resources\Themes
+3. Use SecureUX ThemeTool or UltraUX Theme Patcher to apply the theme
+
+BORDERS:
+If you want borders, you will need Windhawk, MicaForEveryone, and OpenGlass.
+1. Download OpenGlass, install it, and start it up.
+2. In Windhawk, create a custom mod using the code found in Borders/Mod.wh.cpp.
+3. Compile and activate it. You may need to turn it on and off a few times for it to lock in.
+4. In MicaForEveryone, get rid of all sections except for "Global"
+5. Set the Background to Mica, Acrylic or Tabbed (NOT Default or none)
+6. The borders should work. You may get errors on startup saying OpenGlass cannot work, but it seems fine.
