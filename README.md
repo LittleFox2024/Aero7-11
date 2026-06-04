@@ -38,16 +38,14 @@ Aero 7 theme for Windows 11 23H2+!
 </div>
 
 > [!NOTE]
-> Aero7-11 is made using the default `aero.msstyles` in Windows 11. This was made and tested on Windows 11 23H2 and 24H2.
-> 
-> Aero7-11 supports 22H2 through 23H2. It is untested in 25H2, and DWM mods may be a bit buggy in 24H2.
+> Aero7-11 is being archived and deprecated. Please condider [Aero10.1](https://github.com/vaporvance/aero10) or [Aero11](https://github.com/Sand216/Aero11) instead. I will not be making any update or changes. If you have any questions regarding any theming whatsoever, I will still answer them. It doesn't have to refer to Aero or Windows 7, just open and issue and I'll do my best to reply. I will not set this to public archive so that suh issues can still be opened, but I will not make any future modifications to existing files.
+>
+> This theme should work on 23H2-25H2, however there are missing elements in all versions.
 
 ## Warnings
 
 > [!NOTE]
 > I recommend using light app mode and dark Windows mode. This does *NOT* have support for dark app mode. The Windows mode does not matter, but most taskbar mods work better on dark base than light base.
->
-> 24H2 has proven to have issues. If you have updated Windows in the last few months, there is a chance that any DWM modifications could break your system. Please proceed with caution and keep backups when applying mods on 24H2 and 25H2.
 
 > [!WARNING]
 > Please note that usage of this theme is at your own risk. I ***cannot*** guaruntee compatibility with updates, and cannot be held responsible for any damages. I work with the Visual Style and pointing to third party tools only. The only mod I have made is the Borders mod in this repository, which is made for 23H2.
